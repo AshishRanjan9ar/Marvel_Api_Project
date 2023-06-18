@@ -1,6 +1,7 @@
 # Marvel_Api_Project
 
 # HOSTED LINK
+https://ashishranjan9ar.github.io/Marvel_Api_Project/
 
 
 # Introduction:
