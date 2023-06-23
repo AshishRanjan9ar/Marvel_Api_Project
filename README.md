@@ -1,3 +1,8 @@
+# Marvel API
+
+# HOSTED LINK:
+https://ashishranjan9ar.github.io/Marvel_Api_Project/
+
 # Introduction:
 Welcome to our Marvel API project! This website is a tribute to the vast universe of Marvel Comics, bringing together a wealth of information and resources for all Marvel enthusiasts. Using HTML, CSS, and JavaScript, we have created a dynamic and interactive platform that allows you to explore Marvel characters, comics, and more.
 
